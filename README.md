@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
+[![Linkedin Badge](https://img.shields.io/badge/-veeresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veeresh-k-033085175)](https://www.linkedin.com/in/veeresh-k-033085175)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
@@ -15,7 +14,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=veeresh7833&column=7"/>
   </a>
 </div>
 
@@ -26,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**veeresh7833/veeresh7833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
