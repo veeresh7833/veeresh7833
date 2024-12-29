@@ -1,11 +1,23 @@
 ### Hi Developers 👋
 
-[![Scaler Badge]()](https://www.scaler.com/academy/profile/6746920147f1/)
+[![Scaler Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.financialexpress.com%2Fjobs-career%2Feducation-scaler-launches-devops-and-cloud-computing-programme-to-upskill-it-professionals-3415452%2F&psig=AOvVaw3BOzPkqJgTvwK010O56gmB&ust=1735574978548000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCBoOuuzYoDFQAAAAAdAAAAABAE)](https://www.scaler.com/academy/profile/6746920147f1/)
 [![Linkedin Badge](https://img.shields.io/badge/-veeresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veeresh-k-033085175)](https://www.linkedin.com/in/veeresh-k-033085175)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+**I am a passionate Software Engineer with 3.5 years of experience in software development**, specializing in building scalable and efficient systems. My focus lies in solving complex problems and designing high-performing solutions that can grow with the business. Currently,** I am working at a gaming company**, where I contribute to creating robust backend systems and ensuring smooth user experiences.
+
+**I have a solid foundation in backend development, particularly with Java and Spring Boot. I am experienced in both low-level and high-level system design**, creating solutions that are both optimized and scalable. I have a deep understanding of data structures and algorithms and am proficient in designing systems that can efficiently handle high volumes of data and user interactions.
+
+Key Skills & Technologies:
+Programming Languages:** Java, PL/SQL**
+Frameworks: **Spring Boot, Spring Framework**
+Databases: MySQL, MongoDB, Redis
+Messaging Systems: Kafka
+Cloud Technologies: AWS
+Containerization & Orchestration: Docker, Kubernetes
+System Design: **High-Level Design (HLD), Low-Level Design (LLD)**
+DevOps Tools: Docker, Kubernetes
+Others: **Data Structures & Algorithms**, Performance Optimization
+I'm always eager to learn and embrace new technologies, striving to create solutions that meet both business and technical requirements. Feel free to check out my repositories, where I share projects that demonstrate my skills and interests!
 
 
 ![Visitor Count](https://profile-counter.glitch.me/veeresh7833/count.svg)
