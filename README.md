@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Scaler Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.financialexpress.com%2Fjobs-career%2Feducation-scaler-launches-devops-and-cloud-computing-programme-to-upskill-it-professionals-3415452%2F&psig=AOvVaw3BOzPkqJgTvwK010O56gmB&ust=1735574978548000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCBoOuuzYoDFQAAAAAdAAAAABAE)](https://www.scaler.com/academy/profile/6746920147f1/)
+[![Scaler Badge](https://www.scaler.com)](https://www.scaler.com/academy/profile/6746920147f1/)
 [![Linkedin Badge](https://img.shields.io/badge/-veeresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veeresh-k-033085175)](https://www.linkedin.com/in/veeresh-k-033085175)
 
 **I am a passionate Software Engineer with 3.5 years of experience in software development**, specializing in building scalable and efficient systems. My focus lies in solving complex problems and designing high-performing solutions that can grow with the business. Currently,** I am working at a gaming company**, where I contribute to creating robust backend systems and ensuring smooth user experiences.
