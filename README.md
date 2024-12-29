@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Scaler](https://www.scaler.com)](https://www.scaler.com/academy/profile/6746920147f1/)
 [![Linkedin Badge](https://img.shields.io/badge/-veeresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veeresh-k-033085175)](https://www.linkedin.com/in/veeresh-k-033085175)
+[[Scaler]](https://www.scaler.com/academy/profile/6746920147f1/)
 
 **I’m a passionate Software Engineer with 3.5 years of experience, specializing in backend development with Java, Spring Boot, and system design**. Currently working at a gaming company, I build scalable and efficient systems, focusing on high-performance solutions and complex problem-solving. **Skilled in both low-level(LLD) and high-level design(HLD), data structures and algorithms(DSA)**, and cloud technologies like AWS, Docker, and Kubernetes. Always eager to learn and create impactful solutions that drive business growth.
 
